@@ -1,0 +1,11 @@
+# 디폴트 무시된 파일
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+/dataSources.xml
+/dictionaries
+/modules.xml
+/pokemon_data_structure.iml
+/vcs.xml
